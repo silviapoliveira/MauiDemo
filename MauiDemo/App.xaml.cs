@@ -6,7 +6,7 @@
         {
             InitializeComponent();
 
-            MainPage = new GridLayoutDemo();
+            MainPage = new FlexLayoutDemo();
         }
     }
 }
