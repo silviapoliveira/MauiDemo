@@ -57,10 +57,13 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\ic_facebook.svg" />
 	  <None Remove="Resources\Images\ic_plus.svg" />
 	  <None Remove="Resources\Images\ic_robot.svg" />
 	  <None Remove="Resources\Images\ic_settings.svg" />
 	  <None Remove="Resources\Images\ic_trash.svg" />
+	  <None Remove="Resources\Images\logo_cinel.png" />
+	  <None Remove="Resources\Images\silvia.jpg" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -71,6 +74,9 @@
 
 	<ItemGroup>
 	  <MauiXaml Update="FlyoutPageDemo.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="GridLayoutDemo.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="MinhaPagina.xaml">
