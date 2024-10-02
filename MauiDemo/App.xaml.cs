@@ -6,7 +6,7 @@
         {
             InitializeComponent();
 
-            MainPage = new FlexLayoutDemo();
+            MainPage = new AbsoluteLayoutDemo();
         }
     }
 }
