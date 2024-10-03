@@ -57,6 +57,11 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\galaxia1.jpg" />
+	  <None Remove="Resources\Images\galaxia2.jpg" />
+	  <None Remove="Resources\Images\galaxia3.jpg" />
+	  <None Remove="Resources\Images\galaxia4.jpg" />
+	  <None Remove="Resources\Images\galaxia5.jpg" />
 	  <None Remove="Resources\Images\ic_android.svg" />
 	  <None Remove="Resources\Images\left_icon.png" />
 	</ItemGroup>
@@ -72,6 +77,9 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="MauiSetValueControls.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\MauiCollectionControls.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Pages\MauiCommandControls.xaml">
