@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiControls", "MauiControl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiDemoDataBinding", "MauiDemoDataBinding\MauiDemoDataBinding.csproj", "{E5E2D356-EC16-4604-BED9-4E7B429EBA4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiJogoForca", "MauiJogoForca\MauiJogoForca.csproj", "{C64FEBF7-F9D8-466F-88D3-739FCB2C0899}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,12 @@ Global
 		{E5E2D356-EC16-4604-BED9-4E7B429EBA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5E2D356-EC16-4604-BED9-4E7B429EBA4B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E5E2D356-EC16-4604-BED9-4E7B429EBA4B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C64FEBF7-F9D8-466F-88D3-739FCB2C0899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64FEBF7-F9D8-466F-88D3-739FCB2C0899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64FEBF7-F9D8-466F-88D3-739FCB2C0899}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C64FEBF7-F9D8-466F-88D3-739FCB2C0899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64FEBF7-F9D8-466F-88D3-739FCB2C0899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64FEBF7-F9D8-466F-88D3-739FCB2C0899}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
