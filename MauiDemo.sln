@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiJogoForca", "MauiJogoFo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiResources1", "MauiResources1\MauiResources1.csproj", "{557DED8A-D515-450B-A01C-1A2D93356C3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiDividirConta", "MauiDividirConta\MauiDividirConta.csproj", "{64012C3A-68D4-42BE-8050-9F4DDFC4AA15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,12 @@ Global
 		{557DED8A-D515-450B-A01C-1A2D93356C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{557DED8A-D515-450B-A01C-1A2D93356C3A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{557DED8A-D515-450B-A01C-1A2D93356C3A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{64012C3A-68D4-42BE-8050-9F4DDFC4AA15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64012C3A-68D4-42BE-8050-9F4DDFC4AA15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64012C3A-68D4-42BE-8050-9F4DDFC4AA15}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{64012C3A-68D4-42BE-8050-9F4DDFC4AA15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64012C3A-68D4-42BE-8050-9F4DDFC4AA15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64012C3A-68D4-42BE-8050-9F4DDFC4AA15}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
